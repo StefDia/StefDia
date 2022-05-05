@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @StefDia
+- 👀 I’m interested in programming ( currently studying )
+- 🌱 I’m currently learning Front End Coding languages ( HTML/CSS/JavaScript) and some Back End as well ( Python / Java )
