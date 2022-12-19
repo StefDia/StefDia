@@ -7,7 +7,7 @@
   -*CSS*
   -*JavaScript*
   
-##But I also experiment with some Back End projects in:
+## But I also experiment with some Back End projects in:
   -*Python*
   -*Java*
   -*C#*
