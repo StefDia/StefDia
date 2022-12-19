@@ -1,4 +1,15 @@
-- 👋 Hi, I’m @StefDia
-- 👀 I’m interested in programming ( currently studying )
-- 🌱 I enjoy working on Front End Projects ( HTML/ CSS/ JavaScript ) and some Back End as well ( Python / Java )
-- 👩🏻‍💻 Currently I work as a QA Software Tester ( I do Manual Testing as well as Automation testing with Cypress )
+# **Hello there 👋🏻**
+
+## My name is Stef and I am a Computer Science student.
+
+## I enjoy working on Front End projects with
+  -*HTML*
+  -*CSS*
+  -*JavaScript*
+  
+##But I also experiment with some Back End projects in:
+  -*Python*
+  -*Java*
+  -*C#*
+  
+## I currently work as a *QA Software Tester* where I do automation Testing in Cypress
