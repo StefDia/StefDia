@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @StefDia
 - 👀 I’m interested in programming ( currently studying )
-- 🌱 I’m currently learning Front End Coding languages ( HTML/CSS/JavaScript) and some Back End as well ( Python / Java )
+- 🌱 I enjoy working on Front End Projects ( HTML/ CSS/ JavaScript ) and some Back End as well ( Python / Java )
+- 👩🏻‍💻 Currently I work as an QA Software Tester 
