@@ -2,12 +2,12 @@
 
 ### My name is Stef and I am a Computer Science student.
 
- I enjoy working on Front End projects with
+ I enjoy working on **Front End** projects with
 - *HTML*
 - *CSS*
 - *JavaScript*
   
- But I also experiment with some Back End projects in:
+ But I also experiment with some **Back End** projects in:
 - *Python*
 - *Java*
 - *C#*
