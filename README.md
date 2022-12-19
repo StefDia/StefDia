@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @StefDia
 - 👀 I’m interested in programming ( currently studying )
 - 🌱 I enjoy working on Front End Projects ( HTML/ CSS/ JavaScript ) and some Back End as well ( Python / Java )
-- 👩🏻‍💻 Currently I work as an QA Software Tester 
+- 👩🏻‍💻 Currently I work as a QA Software Tester ( I do Manual Testing as well as Automation testing with Cypress )
