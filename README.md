@@ -12,4 +12,4 @@
 - *Java*
 - *C#*
   
- I currently work as a *QA Software Tester* where I do automation Testing in Cypress
+ I currently work as a *QA Software Tester*
