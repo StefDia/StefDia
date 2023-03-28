@@ -6,6 +6,7 @@
 - *HTML*
 - *CSS*
 - *JavaScript*
+- *React*
   
  But I also experiment with some **Back End** projects in:
 - *Python*
