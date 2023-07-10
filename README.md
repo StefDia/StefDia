@@ -1,12 +1,12 @@
 # **Hello there 👋🏻**
 
-### My name is Stef and I am a Computer Science student.
+### My name is Stef and I am a Computer Science graduate.
 
  I enjoy working on **Front End** projects with
 - *HTML*
 - *CSS*
 - *JavaScript*
-- *React*
+- *React Native*
   
  But I also experiment with some **Back End** projects in:
 - *Python*
