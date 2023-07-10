@@ -3,8 +3,7 @@
 ### My name is Stef and I am a Computer Science graduate.
 
  I enjoy working on **Front End** projects with
-- *HTML*
-- *CSS*
+- *HTML / CSS*
 - *JavaScript*
 - *React Native*
   
