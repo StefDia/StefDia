@@ -12,4 +12,7 @@
 - *Java*
 - *C#*
   
- I currently work as a *QA Software Tester*
+ I currently work as a *QA Software Tester* with the following tools:
+- Cypress
+- Selenium Web Driver
+- Postman
